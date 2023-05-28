@@ -1,7 +1,7 @@
 window.INIS = {
 
     // API地址 - 填写后端域名
-    api: 'https://api.inis.cn/api',
+    api: 'https://test.inis.cn/api',
 
     // 后端开启token验证后，需要将token填写到此处
     token: '123456',
